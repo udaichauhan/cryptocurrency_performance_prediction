@@ -5,7 +5,7 @@
 
 Project Report - https://www.dropbox.com/s/eapi055fnd5ari8/Computing%20for%20Analytics_Final%20Project_Group%20_C1G4.pdf?dl=0 <br>
 
-### Abstract <br>
+## Abstract <br>
 
 In this research, we want to find out what are the dominant factors that affect the market capital of cryptocurrency market. Based on the research, we hope to find out whether the cryptocurrency market is really a market for opportunists and the other market factors that influence the cryptocurrency’s performance. The project is divided in following sections:
 

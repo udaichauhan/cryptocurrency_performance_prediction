@@ -1,4 +1,4 @@
-# Predicting the performance of cryptocurrencies
+# Predicting the Performance of Cryptocurrencies
 ~~~
 #Python #Regression #ClusterAnalysis
 ~~~
